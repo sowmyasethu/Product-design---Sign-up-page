@@ -12,7 +12,7 @@ export default function Home() {
 
         {/* Subtitle */}
         <h2 className="text-center text-xl font-semibold mt-4">
-          Sign In to IAM Secure
+          Sign-In to IAM Secure
         </h2>
 
         <p className="text-center text-gray-500 mt-2 mb-6">
