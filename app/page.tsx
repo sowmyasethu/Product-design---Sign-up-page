@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
-      <div className="bg-white w-full max-w-md p-8 rounded-xl shadow-xl">
+      <div className="bg-black w-full max-w-md p-8 rounded-xl shadow-xl">
 
         {/* Logo / Title */}
         <h1 className="text-center text-3xl font-bold text-blue-600">
